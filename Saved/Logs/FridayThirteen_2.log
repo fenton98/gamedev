@@ -859,3 +859,47 @@ Script call stack:
 [2019.12.15-13.10.17:494][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/PickUps/bpPickUpRing]
 [2019.12.15-13.10.17:508][966]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/bpPickUpRing_Auto336E86AB34C85D7D4DD5136AFEC920258.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Autosaves/Game/Blueprint/PickUps/bpPickUpRing_Auto3.uasset'
 [2019.12.15-13.10.17:509][966]LogFileHelpers: Auto-saving content packages took 0.072
+[2019.12.15-13.14.22:606][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-13.14.22:918][224]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/PickUps/bpPickUpMushrooom.bpPickUpMushrooom
+[2019.12.15-13.14.26:069][523]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-13.14.26:118][523]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/PickUps/bpPickUpMushrooom.bpPickUpMushrooom
+[2019.12.15-13.15.12:467][719]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/GameControllerBP.GameControllerBP
+[2019.12.15-13.15.32:973][128]LogSlate: Took 0.004466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.15-13.15.52:052][322]BlueprintLog: New page: Compile GameControllerBP
+[2019.12.15-13.15.52:296][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.15-13.18.26:257][372]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.15-13.18.31:408][588]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.15-13.18.37:747][715]BlueprintLog: New page: Compile GameControllerBP
+[2019.12.15-13.18.37:974][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.15-13.19.08:343][967]BlueprintLog: New page: Compile bpPickUpBase
+[2019.12.15-13.19.08:583][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.15-13.19.12:109][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-13.19.12:209][387]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-13.19.12:235][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-13.19.12:235][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-13.19.12:235][387]PIE: New page: PIE session: LevelOne (15 Dec 2019 13:19:12)
+[2019.12.15-13.19.12:235][387]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-13.19.12:237][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001822s)
+[2019.12.15-13.19.12:238][387]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-13.19.12:238][387]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.12.15-13.19.12:238][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.002815s)
+[2019.12.15-13.19.12:278][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.15-13.19.12:294][387]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-13.19.12:311][387]LogInit: FAudioDevice initialized.
+[2019.12.15-13.19.12:317][387]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-13.19.12:326][387]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-13.19.12
+[2019.12.15-13.19.12:334][387]LogWorld: Bringing up level for play took: 0.016045
+[2019.12.15-13.19.12:334][387]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.15-13.19.12:336][387]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.361
+[2019.12.15-13.19.12:337][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-13.19.15:564][773]LogBlueprintUserMessages: [GameControllerBP_C_0] Mushroom
+[2019.12.15-13.19.16:697][909]LogBlueprintUserMessages: [GameControllerBP_C_0] Ring
+[2019.12.15-13.19.35:474][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-13.19.35:474][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-13.19.35:475][160]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-13.19.35:475][160]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-13.19.35:489][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-13.19.35:490][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-13.19.35:538][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-13.19.35:542][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.15-13.19.35:575][162]LogPlayLevel: Display: Destroying online subsystem :Context_21
