@@ -903,3 +903,20 @@ Script call stack:
 [2019.12.15-13.19.35:538][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.12.15-13.19.35:542][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
 [2019.12.15-13.19.35:575][162]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.15-13.21.03:906][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.15-13.21.04:171][803]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/LevelOne_Auto47F96793E4CD043B38DE410BB2F5424C4.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Autosaves/Game/Map/LevelOne_Auto4.umap'
+[2019.12.15-13.21.04:179][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/LevelOne' took 0.321
+[2019.12.15-13.21.04:179][803]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.321
+[2019.12.15-13.21.04:182][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/GameControllerBP] ([1] browsable assets)...
+[2019.12.15-13.21.04:182][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/GameControllerBP]
+[2019.12.15-13.21.04:229][803]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/GameControllerBP_Auto48080406B47AB7E7BDDEADD8EC07F65BF.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Autosaves/Game/Blueprint/GameControllerBP_Auto4.uasset'
+[2019.12.15-13.21.04:232][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/PickUps/bpPickUpBase] ([1] browsable assets)...
+[2019.12.15-13.21.04:232][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/PickUps/bpPickUpBase]
+[2019.12.15-13.21.04:269][803]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/bpPickUpBase_Auto4AAE2449743CF3CD1395C248AD4F72E65.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Autosaves/Game/Blueprint/PickUps/bpPickUpBase_Auto4.uasset'
+[2019.12.15-13.21.04:272][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/PickUps/bpPickUpMushrooom] ([1] browsable assets)...
+[2019.12.15-13.21.04:272][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/PickUps/bpPickUpMushrooom]
+[2019.12.15-13.21.04:287][803]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/bpPickUpMushrooom_Auto4A0C42ED047D6417EB26E8FBED72696FB.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Autosaves/Game/Blueprint/PickUps/bpPickUpMushrooom_Auto4.uasset'
+[2019.12.15-13.21.04:289][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/PickUps/bpPickUpRing] ([1] browsable assets)...
+[2019.12.15-13.21.04:290][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/PickUps/bpPickUpRing]
+[2019.12.15-13.21.04:307][803]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/bpPickUpRing_Auto48F7E5C2D44F8BE06763953AE9F290D85.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Autosaves/Game/Blueprint/PickUps/bpPickUpRing_Auto4.uasset'
+[2019.12.15-13.21.04:309][803]LogFileHelpers: Auto-saving content packages took 0.127
