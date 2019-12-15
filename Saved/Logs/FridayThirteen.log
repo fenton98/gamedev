@@ -3207,3 +3207,1010 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.15-20.44.44:987][705]LogSlate: Window 'Message Log' being destroyed
 [2019.12.15-20.44.44:991][705]LogSlate: Window 'Message Log' being destroyed
 [2019.12.15-20.44.46:031][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.45.22:290][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.45.22:389][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.45.22:411][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.22:411][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.45.22:412][ 60]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:45:22)
+[2019.12.15-20.45.22:412][ 60]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.45.22:415][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003078s)
+[2019.12.15-20.45.22:416][ 60]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.45.22:416][ 60]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.12.15-20.45.22:416][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004167s)
+[2019.12.15-20.45.22:452][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.15-20.45.22:469][ 60]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.45.22:491][ 60]LogInit: FAudioDevice initialized.
+[2019.12.15-20.45.22:502][ 60]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.45.22:512][ 60]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.45.22:513][ 60]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.45.22
+[2019.12.15-20.45.22:519][ 60]LogWorld: Bringing up level for play took: 0.016576
+[2019.12.15-20.45.22:520][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2019.12.15-20.45.22:523][ 60]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.174
+[2019.12.15-20.45.22:523][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.35:964][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.35:965][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.45.35:965][670]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.45.35:965][670]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.45.35:976][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.45.35:976][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.36:014][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.45.36:018][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.15-20.45.36:026][670]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.45.36:064][672]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.12.15-20.45.37:403][817]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.45.37:405][817]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.45.38:175][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.45.38:642][964]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.45.38:661][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.38:661][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.45.38:662][964]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:45:38)
+[2019.12.15-20.45.38:662][964]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.45.38:664][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002802s)
+[2019.12.15-20.45.38:665][964]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.45.38:665][964]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2019.12.15-20.45.38:665][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.003745s)
+[2019.12.15-20.45.38:698][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.12.15-20.45.38:713][964]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.45.38:729][964]LogInit: FAudioDevice initialized.
+[2019.12.15-20.45.38:738][964]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.45.38:747][964]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.45.38:747][964]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.45.38
+[2019.12.15-20.45.38:754][964]LogWorld: Bringing up level for play took: 0.015476
+[2019.12.15-20.45.38:755][964]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2019.12.15-20.45.38:758][964]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.061
+[2019.12.15-20.45.38:758][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.51:081][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.51:082][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.45.51:082][441]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.45.51:082][441]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.45.51:098][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.45.51:098][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.45.51:140][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.45.51:143][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.15-20.45.51:151][441]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.45.51:189][443]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.12.15-20.45.52:877][642]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.45.52:880][642]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.45.56:313][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.45.57:103][142]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/bpFollowCamera.bpFollowCamera
+[2019.12.15-20.46.09:584][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.46.09:722][302]LogSlate: Window 'bpFollowCamera' being destroyed
+[2019.12.15-20.46.09:726][302]LogSlate: Window 'bpFollowCamera' being destroyed
+[2019.12.15-20.46.09:749][302]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.46.09:872][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.15-20.46.09:873][302]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.46.12:083][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.46.21:469][414]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.46.21:486][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.21:486][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.46.21:486][414]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:46:21)
+[2019.12.15-20.46.21:486][414]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.46.21:489][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002851s)
+[2019.12.15-20.46.21:490][414]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.46.21:490][414]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2019.12.15-20.46.21:490][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.003800s)
+[2019.12.15-20.46.21:525][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.15-20.46.21:541][414]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.46.21:557][414]LogInit: FAudioDevice initialized.
+[2019.12.15-20.46.21:566][414]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.46.21:575][414]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.46.21:575][414]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.46.21
+[2019.12.15-20.46.21:583][414]LogWorld: Bringing up level for play took: 0.016082
+[2019.12.15-20.46.21:583][414]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2019.12.15-20.46.21:586][414]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.889
+[2019.12.15-20.46.21:586][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.23:102][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.23:102][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.23:102][594]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.46.23:102][594]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.46.23:117][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.46.23:117][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.23:159][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.23:162][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.15-20.46.23:208][597]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2019.12.15-20.46.24:373][729]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.46.24:378][729]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.46.25:286][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.46.30:993][376]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.46.31:009][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.31:009][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.46.31:009][376]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:46:31)
+[2019.12.15-20.46.31:010][376]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.46.31:013][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003162s)
+[2019.12.15-20.46.31:014][376]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.46.31:014][376]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2019.12.15-20.46.31:014][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004099s)
+[2019.12.15-20.46.31:044][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.15-20.46.31:059][376]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.46.31:075][376]LogInit: FAudioDevice initialized.
+[2019.12.15-20.46.31:087][376]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.46.31:096][376]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.46.31:097][376]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.46.31
+[2019.12.15-20.46.31:104][376]LogWorld: Bringing up level for play took: 0.015812
+[2019.12.15-20.46.31:104][376]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2019.12.15-20.46.31:107][376]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.411
+[2019.12.15-20.46.31:107][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.47:932][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.47:932][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.47:932][389]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.46.47:932][389]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.46.47:942][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.46.47:942][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.47:978][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.47:981][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.15-20.46.47:989][389]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.46.48:036][392]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2019.12.15-20.46.49:195][524]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.46.49:198][524]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.46.49:980][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.46.51:298][740]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.46.51:314][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.51:315][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.46.51:315][740]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:46:51)
+[2019.12.15-20.46.51:315][740]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.46.51:318][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002862s)
+[2019.12.15-20.46.51:318][740]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.46.51:319][740]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.12.15-20.46.51:319][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.003850s)
+[2019.12.15-20.46.51:349][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.15-20.46.51:364][740]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.46.51:379][740]LogInit: FAudioDevice initialized.
+[2019.12.15-20.46.51:386][740]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.46.51:395][740]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.46.51:395][740]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.46.51
+[2019.12.15-20.46.51:402][740]LogWorld: Bringing up level for play took: 0.015864
+[2019.12.15-20.46.51:403][740]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2019.12.15-20.46.51:406][740]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.709
+[2019.12.15-20.46.51:406][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.58:000][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.58:000][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.58:000][527]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.46.58:001][527]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.46.58:014][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.46.58:015][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.46.58:051][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.58:054][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.15-20.46.58:062][527]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.46.58:107][530]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2019.12.15-20.46.59:287][664]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.46.59:290][664]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.47.00:145][765]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.47.00:152][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/LevelOne" FILE="../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Map/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.15-20.47.00:184][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.15-20.47.00:381][765]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/LevelOne59ECDEA5466ABE11D43F429F2395E6E6.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Map/LevelOne.umap'
+[2019.12.15-20.47.01:204][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.49.26:871][287]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.49.27:974][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.49.28:049][410]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.49.28:065][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.49.28:065][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.49.28:065][410]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:49:28)
+[2019.12.15-20.49.28:065][410]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.49.28:068][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003101s)
+[2019.12.15-20.49.28:069][410]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.49.28:069][410]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2019.12.15-20.49.28:069][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004196s)
+[2019.12.15-20.49.28:106][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.12.15-20.49.28:121][410]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.49.28:137][410]LogInit: FAudioDevice initialized.
+[2019.12.15-20.49.28:146][410]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.49.28:156][410]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.49.28:156][410]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.49.28
+[2019.12.15-20.49.28:163][410]LogWorld: Bringing up level for play took: 0.015981
+[2019.12.15-20.49.28:163][410]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2019.12.15-20.49.28:166][410]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.53
+[2019.12.15-20.49.28:166][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.49.41:535][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.49.41:536][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.49.41:536][  7]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.49.41:536][  7]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.49.41:547][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.49.41:547][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.49.41:582][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.49.41:586][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.15-20.49.41:594][  7]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.49.41:639][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2019.12.15-20.49.42:672][129]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.49.42:675][129]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.49.43:418][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.49.55:793][364]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.49.55:810][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.49.55:810][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.49.55:811][364]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:49:55)
+[2019.12.15-20.49.55:811][364]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.49.55:813][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2019.12.15-20.49.55:814][364]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.49.55:814][364]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2019.12.15-20.49.55:814][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.003637s)
+[2019.12.15-20.49.55:845][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.15-20.49.55:859][364]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.49.55:875][364]LogInit: FAudioDevice initialized.
+[2019.12.15-20.49.55:881][364]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.49.55:890][364]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.49.55:890][364]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.49.55
+[2019.12.15-20.49.55:897][364]LogWorld: Bringing up level for play took: 0.015683
+[2019.12.15-20.49.55:897][364]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2019.12.15-20.49.55:901][364]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.796
+[2019.12.15-20.49.55:901][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.12:670][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.12:670][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.50.12:670][372]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.50.12:670][372]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.50.12:683][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.50.12:683][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.12:718][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.50.12:721][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.15-20.50.12:729][372]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.50.12:776][375]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2019.12.15-20.50.13:673][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.50.13:690][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.13:690][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.50.13:690][476]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:50:13)
+[2019.12.15-20.50.13:690][476]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.50.13:693][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002883s)
+[2019.12.15-20.50.13:694][476]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.50.13:694][476]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2019.12.15-20.50.13:694][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.003837s)
+[2019.12.15-20.50.13:720][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.15-20.50.13:736][476]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.50.13:752][476]LogInit: FAudioDevice initialized.
+[2019.12.15-20.50.13:766][476]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.50.13:785][476]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.50.13:786][476]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.50.13
+[2019.12.15-20.50.13:802][476]LogWorld: Bringing up level for play took: 0.033847
+[2019.12.15-20.50.13:802][476]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2019.12.15-20.50.13:808][476]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 1.111
+[2019.12.15-20.50.13:808][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.14:357][538]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.50.14:362][538]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.50.46:974][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.46:974][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.50.46:974][442]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.50.46:974][442]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.50.46:988][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.50.46:988][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.50.47:028][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.50.47:031][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.15-20.50.47:039][442]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.50.47:077][444]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.12.15-20.52.35:476][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.52.37:590][129]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Art/TileMaps/Level1.Level1
+[2019.12.15-20.52.37:702][129]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2019.12.15-20.52.50:681][156]Cmd: TRANSACTION UNDO
+[2019.12.15-20.52.50:681][156]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.52.51:010][178]Cmd: TRANSACTION UNDO
+[2019.12.15-20.52.51:010][178]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.52.51:194][189]Cmd: TRANSACTION UNDO
+[2019.12.15-20.52.51:195][189]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.52.51:369][201]Cmd: TRANSACTION UNDO
+[2019.12.15-20.52.51:369][201]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.52.54:327][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.52.58:842][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.00:755][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.04:624][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.07:228][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.11:554][873]Cmd: TRANSACTION UNDO
+[2019.12.15-20.53.11:554][873]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.53.11:820][888]Cmd: TRANSACTION UNDO
+[2019.12.15-20.53.11:820][888]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.53.12:014][898]Cmd: TRANSACTION UNDO
+[2019.12.15-20.53.12:014][898]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.53.12:241][914]Cmd: TRANSACTION UNDO
+[2019.12.15-20.53.12:241][914]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-20.53.13:530][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.20:439][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.25:396][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.27:787][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.32:599][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.34:761][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.43:284][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.43:373][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TileMaps/Level1" FILE="../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Art/TileMaps/Level1.uasset" SILENT=true
+[2019.12.15-20.53.44:991][570]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Level1F60763794F1723563D28B18E0E08F822.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Art/TileMaps/Level1.uasset'
+[2019.12.15-20.53.45:569][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.53.45:649][611]LogSlate: Window 'Level1' being destroyed
+[2019.12.15-20.53.45:663][611]LogSlate: Window 'Level1' being destroyed
+[2019.12.15-20.53.45:681][611]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.53.49:976][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.54.34:324][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.54.46:983][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.55.00:918][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.55.26:679][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.55.34:312][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.55.39:193][789]PIE: Warning: Applying invalid scale V(X=.532, Y=-.01, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:210][791]PIE: Warning: Applying invalid scale V(X=.532, Y=-.02, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:227][793]PIE: Warning: Applying invalid scale V(X=.532, Y=-.03, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:244][795]PIE: Warning: Applying invalid scale V(X=.532, Y=-.04, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:260][797]PIE: Warning: Applying invalid scale V(X=.532, Y=-.05, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:277][799]PIE: Warning: Applying invalid scale V(X=.532, Y=-.062, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:294][801]PIE: Warning: Applying invalid scale V(X=.532, Y=-.072, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:310][803]PIE: Warning: Applying invalid scale V(X=.532, Y=-.082, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:326][805]PIE: Warning: Applying invalid scale V(X=.532, Y=-.093, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:327][805]PIE: Warning: Applying invalid scale V(X=.532, Y=-.102, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:343][807]PIE: Warning: Applying invalid scale V(X=.532, Y=-.115, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:360][809]PIE: Warning: Applying invalid scale V(X=.532, Y=-.122, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:377][811]PIE: Warning: Applying invalid scale V(X=.532, Y=-.13, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:393][813]PIE: Warning: Applying invalid scale V(X=.532, Y=-.132, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:410][815]PIE: Warning: Applying invalid scale V(X=.532, Y=-.135, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:682][847]PIE: Warning: Applying invalid scale V(X=.532, Y=-.132, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:698][849]PIE: Warning: Applying invalid scale V(X=.532, Y=-.127, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:715][851]PIE: Warning: Applying invalid scale V(X=.532, Y=-.12, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:732][853]PIE: Warning: Applying invalid scale V(X=.532, Y=-.115, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:748][855]PIE: Warning: Applying invalid scale V(X=.532, Y=-.11, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:765][857]PIE: Warning: Applying invalid scale V(X=.532, Y=-.107, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:790][860]PIE: Warning: Applying invalid scale V(X=.532, Y=-.105, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:807][862]PIE: Warning: Applying invalid scale V(X=.532, Y=-.102, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:832][865]PIE: Warning: Applying invalid scale V(X=.532, Y=-.097, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:849][867]PIE: Warning: Applying invalid scale V(X=.532, Y=-.093, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:865][869]PIE: Warning: Applying invalid scale V(X=.532, Y=-.09, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:882][871]PIE: Warning: Applying invalid scale V(X=.532, Y=-.087, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:932][877]PIE: Warning: Applying invalid scale V(X=.532, Y=-.085, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:948][879]PIE: Warning: Applying invalid scale V(X=.532, Y=-.082, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:965][881]PIE: Warning: Applying invalid scale V(X=.532, Y=-.078, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.39:982][883]PIE: Warning: Applying invalid scale V(X=.532, Y=-.075, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:007][886]PIE: Warning: Applying invalid scale V(X=.532, Y=-.072, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:040][890]PIE: Warning: Applying invalid scale V(X=.532, Y=-.067, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:057][892]PIE: Warning: Applying invalid scale V(X=.532, Y=-.062, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:074][894]PIE: Warning: Applying invalid scale V(X=.532, Y=-.057, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:090][896]PIE: Warning: Applying invalid scale V(X=.532, Y=-.055, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:107][898]PIE: Warning: Applying invalid scale V(X=.532, Y=-.05, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:123][900]PIE: Warning: Applying invalid scale V(X=.532, Y=-.045, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:140][902]PIE: Warning: Applying invalid scale V(X=.532, Y=-.04, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:157][904]PIE: Warning: Applying invalid scale V(X=.532, Y=-.03, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:174][906]PIE: Warning: Applying invalid scale V(X=.532, Y=-.022, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:191][908]PIE: Warning: Applying invalid scale V(X=.532, Y=-.018, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:191][908]PIE: Warning: Applying invalid scale V(X=.532, Y=-.015, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:216][911]PIE: Warning: Applying invalid scale V(X=.532, Y=-.012, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:857][988]PIE: Warning: Applying invalid scale V(X=.532, Y=-.01, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:874][990]PIE: Warning: Applying invalid scale V(X=.532, Y=-.005, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.40:899][993]PIE: Warning: Applying invalid scale V(X=.532, Y=-.002, Z=.147) to body PainCausingVolume_1
+[2019.12.15-20.55.48:435][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.56.00:465][328]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-20.56.02:039][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.56.02:156][521]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.56.02:178][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.56.02:179][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.56.02:179][521]PIE: New page: PIE session: LevelOne (15 Dec 2019 20:56:02)
+[2019.12.15-20.56.02:179][521]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.56.02:182][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2019.12.15-20.56.02:184][521]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-20.56.02:184][521]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2019.12.15-20.56.02:184][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.005169s)
+[2019.12.15-20.56.02:222][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.15-20.56.02:238][521]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.56.02:254][521]LogInit: FAudioDevice initialized.
+[2019.12.15-20.56.02:259][521]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-20.56.02:268][521]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-20.56.02:269][521]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-20.56.02
+[2019.12.15-20.56.02:303][521]LogWorld: Bringing up level for play took: 0.043403
+[2019.12.15-20.56.02:303][521]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2019.12.15-20.56.02:310][521]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.388
+[2019.12.15-20.56.02:310][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.56.35:933][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.56.35:933][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.56.35:933][546]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-20.56.35:934][546]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.56.35:944][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.56.35:944][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-20.56.35:981][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.56.35:985][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.15-20.56.35:993][546]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.56.36:035][550]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.12.15-20.56.37:452][718]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.56.37:455][718]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-20.56.38:573][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.56.39:088][910]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Art/TileMaps/Level1.Level1
+[2019.12.15-20.57.03:369][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.57.25:018][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.57.41:749][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.57.47:736][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.57.51:298][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.57.55:807][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.57.58:824][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.01:049][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.03:760][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.06:226][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.15:271][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.19:393][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.26:844][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.28:482][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.32:019][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.36:822][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.46:022][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.58.53:259][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.05:823][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.21:257][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.24:305][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.27:700][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.29:456][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.33:009][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.36:571][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.59.58:767][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.21:662][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.27:002][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.28:690][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.31:163][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.37:141][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.40:482][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.52:296][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.55:123][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.56:838][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.00.59:753][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.01:813][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.04:953][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.07:025][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.10:732][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.39:527][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.45:190][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.49:027][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.51:499][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.55:638][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.57:167][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.01.59:816][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.02.31:125][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.02.31:132][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TileMaps/Level1" FILE="../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Art/TileMaps/Level1.uasset" SILENT=true
+[2019.12.15-21.02.32:783][ 21]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Level150BC5C584093638E086C369A7790C2AE.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Art/TileMaps/Level1.uasset'
+[2019.12.15-21.02.34:854][155]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.02.34:874][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.02.34:874][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.02.34:874][155]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:02:34)
+[2019.12.15-21.02.34:874][155]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.02.34:878][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004078s)
+[2019.12.15-21.02.34:879][155]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.02.34:879][155]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2019.12.15-21.02.34:879][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.005499s)
+[2019.12.15-21.02.34:920][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.15-21.02.34:936][155]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.02.34:952][155]LogInit: FAudioDevice initialized.
+[2019.12.15-21.02.34:967][155]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.02.34:992][155]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.02.34:993][155]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.02.34
+[2019.12.15-21.02.35:010][155]LogWorld: Bringing up level for play took: 0.041119
+[2019.12.15-21.02.35:010][155]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2019.12.15-21.02.35:016][155]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.319
+[2019.12.15-21.02.35:016][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.02.55:678][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.02.55:678][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.02.55:678][585]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.02.55:679][585]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.02.55:698][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.02.55:698][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.02.55:747][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.02.55:751][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.15-21.02.55:758][585]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.02.55:787][586]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2019.12.15-21.02.56:862][674]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.02.56:875][674]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.03.19:712][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.03.30:771][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/LevelOne" FILE="../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Map/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.15-21.03.30:804][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.15-21.03.31:001][807]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/LevelOne5DBEDA4C4F2D142E14AA7EBF6D18BA91.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Map/LevelOne.umap'
+[2019.12.15-21.03.31:388][832]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.03.31:405][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.03.31:405][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.03.31:405][832]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:03:31)
+[2019.12.15-21.03.31:405][832]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.03.31:409][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003710s)
+[2019.12.15-21.03.31:410][832]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.03.31:410][832]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2019.12.15-21.03.31:410][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004861s)
+[2019.12.15-21.03.31:441][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.15-21.03.31:457][832]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.03.31:473][832]LogInit: FAudioDevice initialized.
+[2019.12.15-21.03.31:487][832]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.03.31:505][832]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.03.31:506][832]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.03.31
+[2019.12.15-21.03.31:515][832]LogWorld: Bringing up level for play took: 0.025688
+[2019.12.15-21.03.31:515][832]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2019.12.15-21.03.31:518][832]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.821
+[2019.12.15-21.03.31:519][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.00:489][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.00:490][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.04.00:490][281]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.04.00:490][281]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.04.00:510][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.04.00:510][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.00:567][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.04.00:571][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.12.15-21.04.00:579][281]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.04.00:609][282]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.12.15-21.04.02:265][410]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.04.02:279][410]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.04.02:840][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.04.02:932][464]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.04.02:950][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.02:950][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.04.02:950][464]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:04:02)
+[2019.12.15-21.04.02:950][464]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.04.02:954][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003158s)
+[2019.12.15-21.04.02:954][464]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.04.02:955][464]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.12.15-21.04.02:955][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004070s)
+[2019.12.15-21.04.02:985][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.15-21.04.03:000][464]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.04.03:016][464]LogInit: FAudioDevice initialized.
+[2019.12.15-21.04.03:022][464]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.04.03:031][464]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.04.03:032][464]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.04.03
+[2019.12.15-21.04.03:039][464]LogWorld: Bringing up level for play took: 0.016189
+[2019.12.15-21.04.03:039][464]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2019.12.15-21.04.03:042][464]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.345
+[2019.12.15-21.04.03:042][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.25:992][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.25:992][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.04.25:992][189]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.04.25:992][189]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.04.26:003][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.04.26:003][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.26:038][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.04.26:042][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.15-21.04.26:050][189]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.04.26:095][191]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2019.12.15-21.04.28:154][358]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.04.28:167][358]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.04.28:851][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.04.30:201][524]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.15-21.04.41:181][776]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.04.42:136][838]LogEditorViewport: Clicking on Actor (LMB): PainCausingVolume (PainCausingVolume)
+[2019.12.15-21.04.44:052][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.04.47:052][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.04.47:070][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.04.47:070][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.04.47:070][265]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:04:47)
+[2019.12.15-21.04.47:070][265]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.04.47:074][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003649s)
+[2019.12.15-21.04.47:075][265]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.04.47:075][265]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2019.12.15-21.04.47:075][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004768s)
+[2019.12.15-21.04.47:105][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.15-21.04.47:121][265]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.04.47:137][265]LogInit: FAudioDevice initialized.
+[2019.12.15-21.04.47:149][265]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.04.47:158][265]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.04.47:158][265]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.04.47
+[2019.12.15-21.04.47:166][265]LogWorld: Bringing up level for play took: 0.016578
+[2019.12.15-21.04.47:166][265]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2019.12.15-21.04.47:169][265]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.473
+[2019.12.15-21.04.47:170][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.05.13:135][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.05.13:135][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.05.13:135][374]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.05.13:135][374]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.05.13:147][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.05.13:147][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.05.13:184][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.05.13:188][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.15-21.05.13:196][374]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.05.13:237][376]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.12.15-21.05.16:232][438]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.05.16:237][438]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.05.26:669][ 62]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.05.28:221][177]LogEditorViewport: Clicking on Actor (LMB): PainCausingVolume (PainCausingVolume)
+[2019.12.15-21.05.32:077][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.05.42:727][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.05.42:792][474]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.05.42:809][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.05.42:809][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.05.42:809][474]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:05:42)
+[2019.12.15-21.05.42:809][474]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.05.42:813][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003193s)
+[2019.12.15-21.05.42:813][474]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.05.42:813][474]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2019.12.15-21.05.42:813][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004114s)
+[2019.12.15-21.05.42:845][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.15-21.05.42:861][474]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.05.42:877][474]LogInit: FAudioDevice initialized.
+[2019.12.15-21.05.42:883][474]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.05.42:893][474]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.05.42:893][474]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.05.42
+[2019.12.15-21.05.42:901][474]LogWorld: Bringing up level for play took: 0.016700
+[2019.12.15-21.05.42:901][474]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2019.12.15-21.05.42:904][474]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.208
+[2019.12.15-21.05.42:905][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.04:408][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.04:409][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.06.04:409][ 45]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.06.04:409][ 45]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.06.04:419][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.06.04:419][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.04:454][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.06.04:458][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.15-21.06.04:466][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.06.04:508][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2019.12.15-21.06.05:890][149]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.06.05:904][149]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.06.27:345][883]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.06.27:362][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.27:362][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.06.27:362][883]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:06:27)
+[2019.12.15-21.06.27:362][883]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.06.27:366][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003224s)
+[2019.12.15-21.06.27:366][883]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.06.27:367][883]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.12.15-21.06.27:367][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004210s)
+[2019.12.15-21.06.27:398][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.15-21.06.27:414][883]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.06.27:431][883]LogInit: FAudioDevice initialized.
+[2019.12.15-21.06.27:439][883]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.06.27:449][883]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.06.27:449][883]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.06.27
+[2019.12.15-21.06.27:457][883]LogWorld: Bringing up level for play took: 0.016513
+[2019.12.15-21.06.27:457][883]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2019.12.15-21.06.27:460][883]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.763
+[2019.12.15-21.06.27:461][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.52:765][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.52:765][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.06.52:765][909]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.06.52:766][909]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.06.52:779][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.06.52:779][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.06.52:815][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.06.52:819][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.15-21.06.52:826][909]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.06.52:868][911]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2019.12.15-21.06.54:322][ 25]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.06.54:327][ 25]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.07.09:356][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/LevelOne" FILE="../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Map/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.15-21.07.09:387][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.15-21.07.09:579][315]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/LevelOne9A3394154657C7219049E0A30C5B6F8C.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Map/LevelOne.umap'
+[2019.12.15-21.07.10:531][389]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.07.10:549][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.10:549][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.07.10:549][389]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:07:10)
+[2019.12.15-21.07.10:549][389]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.07.10:552][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003291s)
+[2019.12.15-21.07.10:553][389]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.07.10:554][389]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2019.12.15-21.07.10:554][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004500s)
+[2019.12.15-21.07.10:585][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.15-21.07.10:601][389]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.07.10:617][389]LogInit: FAudioDevice initialized.
+[2019.12.15-21.07.10:632][389]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.07.10:651][389]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.07.10:651][389]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.07.10
+[2019.12.15-21.07.10:662][389]LogWorld: Bringing up level for play took: 0.028351
+[2019.12.15-21.07.10:662][389]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2019.12.15-21.07.10:667][389]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.03
+[2019.12.15-21.07.10:667][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.14:782][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.14:782][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.07.14:782][880]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.07.14:782][880]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.07.14:796][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.07.14:796][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.14:831][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.07.14:834][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.15-21.07.14:843][880]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.07.14:882][882]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.12.15-21.07.15:929][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.07.15:947][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.15:947][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.07.15:947][963]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:07:15)
+[2019.12.15-21.07.15:947][963]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.07.15:951][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003258s)
+[2019.12.15-21.07.15:951][963]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.07.15:952][963]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2019.12.15-21.07.15:952][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004193s)
+[2019.12.15-21.07.15:983][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.15-21.07.15:998][963]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.07.16:014][963]LogInit: FAudioDevice initialized.
+[2019.12.15-21.07.16:026][963]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.07.16:045][963]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.07.16:046][963]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.07.16
+[2019.12.15-21.07.16:058][963]LogWorld: Bringing up level for play took: 0.030289
+[2019.12.15-21.07.16:058][963]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2019.12.15-21.07.16:062][963]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.635
+[2019.12.15-21.07.16:062][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.34:553][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.34:553][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.07.34:553][164]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.07.34:553][164]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.07.34:567][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.07.34:567][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.07.34:604][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.07.34:607][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.12.15-21.07.34:615][164]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.07.34:653][167]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.12.15-21.07.47:730][264]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.07.47:742][264]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.08.01:472][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.08.05:264][783]LogSlate: Window 'Level1' being destroyed
+[2019.12.15-21.08.05:277][783]LogSlate: Window 'Level1' being destroyed
+[2019.12.15-21.08.05:295][783]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.08.10:451][386]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.08.11:125][459]LogEditorViewport: Clicking on Actor (LMB): bpArrowSpawner_C (bpArrowSpawner)
+[2019.12.15-21.08.13:629][753]Cmd: EDIT COPY
+[2019.12.15-21.08.15:143][933]Cmd: EDIT PASTE
+[2019.12.15-21.08.26:142][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.08.38:225][675]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.08.38:860][743]LogEditorViewport: Clicking on Actor (LMB): bpArrowSpawner_C (bpArrowSpawner2)
+[2019.12.15-21.08.40:316][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.08.46:814][691]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.08.46:831][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.08.46:831][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.08.46:831][691]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:08:46)
+[2019.12.15-21.08.46:831][691]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.08.46:835][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003678s)
+[2019.12.15-21.08.46:836][691]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.08.46:836][691]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2019.12.15-21.08.46:836][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.004806s)
+[2019.12.15-21.08.46:870][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.15-21.08.46:887][691]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.08.46:903][691]LogInit: FAudioDevice initialized.
+[2019.12.15-21.08.46:911][691]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.08.46:921][691]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.08.46:922][691]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.08.46
+[2019.12.15-21.08.46:929][691]LogWorld: Bringing up level for play took: 0.016846
+[2019.12.15-21.08.46:929][691]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2019.12.15-21.08.46:933][691]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.236
+[2019.12.15-21.08.46:933][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.08.58:921][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.08.58:921][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.08.58:921][126]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.08.58:921][126]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.08.58:934][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.08.58:934][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.08.58:969][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.08.58:973][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.15-21.08.58:982][126]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.08.59:027][129]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2019.12.15-21.08.59:978][237]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.08.59:982][237]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.09.02:333][516]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.09.03:201][612]LogEditorViewport: Clicking on Actor (LMB): bpArrowSpawner_C (bpArrowSpawner2)
+[2019.12.15-21.09.04:233][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.09.08:711][263]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.09.10:475][458]LogEditorViewport: Clicking on Actor (LMB): bpMovingPlatform_C (bpMovingPlatform2)
+[2019.12.15-21.09.12:328][671]Cmd: EDIT COPY
+[2019.12.15-21.09.12:601][702]Cmd: EDIT PASTE
+[2019.12.15-21.09.27:469][468]Cmd: EDIT COPY
+[2019.12.15-21.09.27:690][493]Cmd: EDIT PASTE
+[2019.12.15-21.09.37:065][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.09.44:116][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.09.47:128][801]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.09.47:790][872]LogEditorViewport: Clicking on Actor (LMB): bpMovingPlatform_C (bpMovingPlatform3)
+[2019.12.15-21.09.48:762][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.09.55:502][774]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom)
+[2019.12.15-21.09.58:493][121]Cmd: EDIT COPY
+[2019.12.15-21.09.59:385][226]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.09.59:934][284]Cmd: EDIT PASTE
+[2019.12.15-21.10.04:040][766]Cmd: EDIT COPY
+[2019.12.15-21.10.04:525][822]Cmd: EDIT PASTE
+[2019.12.15-21.10.05:863][975]Cmd: EDIT PASTE
+[2019.12.15-21.10.08:890][328]Cmd: EDIT PASTE
+[2019.12.15-21.10.12:637][769]Cmd: EDIT PASTE
+[2019.12.15-21.10.14:574][994]Cmd: EDIT PASTE
+[2019.12.15-21.10.16:855][260]Cmd: EDIT PASTE
+[2019.12.15-21.10.20:239][658]Cmd: EDIT PASTE
+[2019.12.15-21.10.31:472][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.10.31:572][992]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.10.31:591][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.31:591][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.10.31:591][992]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:10:31)
+[2019.12.15-21.10.31:591][992]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.10.31:597][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005377s)
+[2019.12.15-21.10.31:597][992]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.10.31:598][992]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2019.12.15-21.10.31:598][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.006507s)
+[2019.12.15-21.10.31:645][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.15-21.10.31:660][992]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.10.31:677][992]LogInit: FAudioDevice initialized.
+[2019.12.15-21.10.31:690][992]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.10.31:710][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:711][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:712][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:712][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom4.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:712][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom5.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:712][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom6.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:712][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom7.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:713][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom8.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:713][992]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom9.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.31:713][992]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.10.31
+[2019.12.15-21.10.31:728][992]LogWorld: Bringing up level for play took: 0.035914
+[2019.12.15-21.10.31:728][992]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2019.12.15-21.10.31:733][992]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 1.036
+[2019.12.15-21.10.31:733][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.35:706][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.35:706][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.10.35:706][466]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.10.35:707][466]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.10.35:719][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.10.35:720][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.35:757][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.10.35:760][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.15-21.10.35:769][466]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.10.35:809][468]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2019.12.15-21.10.36:927][597]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.10.36:930][597]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.10.37:680][687]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.10.37:697][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.37:697][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.10.37:697][687]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:10:37)
+[2019.12.15-21.10.37:698][687]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.10.37:703][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005447s)
+[2019.12.15-21.10.37:704][687]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.10.37:704][687]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2019.12.15-21.10.37:704][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.006408s)
+[2019.12.15-21.10.37:734][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.15-21.10.37:750][687]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.10.37:765][687]LogInit: FAudioDevice initialized.
+[2019.12.15-21.10.37:773][687]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.10.37:782][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom4.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom5.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom6.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom7.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom8.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom9.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.10.37:783][687]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.10.37
+[2019.12.15-21.10.37:791][687]LogWorld: Bringing up level for play took: 0.017237
+[2019.12.15-21.10.37:791][687]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2019.12.15-21.10.37:795][687]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne -0.902
+[2019.12.15-21.10.37:795][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.41:140][ 87]LogCharacterMovement: PlayerBP_C_0 is stuck and failed to move! Velocity: X=300.00 Y=0.00 Z=0.00 Location: X=640.13 Y=0.00 Z=-540.29 Normal: X=-0.64 Y=0.00 Z=0.77 PenetrationDepth:0.645 Actor:Level1_2 Component:RenderComponent BoneName:None (0 other events since notify)
+[2019.12.15-21.10.53:187][528]LogCharacterMovement: PlayerBP_C_0 is stuck and failed to move! Velocity: X=-300.00 Y=0.00 Z=0.00 Location: X=973.40 Y=0.00 Z=-302.49 Normal: X=0.54 Y=0.00 Z=0.84 PenetrationDepth:1.393 Actor:Level1_2 Component:RenderComponent BoneName:None (0 other events since notify)
+[2019.12.15-21.10.54:413][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.54:413][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.10.54:413][675]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.10.54:413][675]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.10.54:425][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.10.54:425][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.10.54:462][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.10.54:465][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.12.15-21.10.54:473][675]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.10.54:518][678]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2019.12.15-21.10.55:594][803]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.10.55:597][803]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.10.56:981][967]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom8)
+[2019.12.15-21.10.59:003][204]Cmd: DELETE
+[2019.12.15-21.10.59:003][204]Cmd: ACTOR DELETE
+[2019.12.15-21.10.59:007][204]LogEditorActor: Deleted Actor: bpPickUpMushrooom_C
+[2019.12.15-21.10.59:039][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.15-21.10.59:040][204]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.12.15-21.10.59:825][297]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom7)
+[2019.12.15-21.11.00:156][329]Cmd: DELETE
+[2019.12.15-21.11.00:156][329]Cmd: ACTOR DELETE
+[2019.12.15-21.11.00:158][329]LogEditorActor: Deleted Actor: bpPickUpMushrooom_C
+[2019.12.15-21.11.00:191][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.12.15-21.11.00:191][329]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.12.15-21.11.00:775][398]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom6)
+[2019.12.15-21.11.00:923][411]Cmd: DELETE
+[2019.12.15-21.11.00:923][411]Cmd: ACTOR DELETE
+[2019.12.15-21.11.00:924][411]LogEditorActor: Deleted Actor: bpPickUpMushrooom_C
+[2019.12.15-21.11.00:956][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.15-21.11.00:957][411]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.12.15-21.11.01:906][520]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom9)
+[2019.12.15-21.11.02:060][534]Cmd: DELETE
+[2019.12.15-21.11.02:060][534]Cmd: ACTOR DELETE
+[2019.12.15-21.11.02:061][534]LogEditorActor: Deleted Actor: bpPickUpMushrooom_C
+[2019.12.15-21.11.02:093][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.15-21.11.02:093][534]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.15-21.11.02:542][587]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom2)
+[2019.12.15-21.11.02:663][597]Cmd: DELETE
+[2019.12.15-21.11.02:663][597]Cmd: ACTOR DELETE
+[2019.12.15-21.11.02:665][597]LogEditorActor: Deleted Actor: bpPickUpMushrooom_C
+[2019.12.15-21.11.02:693][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.15-21.11.02:694][597]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.12.15-21.11.03:110][646]LogEditorViewport: Clicking on Actor (LMB): bpPickUpMushrooom_C (bpPickUpMushrooom3)
+[2019.12.15-21.11.03:196][652]Cmd: DELETE
+[2019.12.15-21.11.03:196][652]Cmd: ACTOR DELETE
+[2019.12.15-21.11.03:197][652]LogEditorActor: Deleted Actor: bpPickUpMushrooom_C
+[2019.12.15-21.11.03:227][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.12.15-21.11.03:228][652]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.12.15-21.11.06:038][979]LogEditorViewport: Clicking on Actor (LMB): bpPickUpRing_C (bpPickUpRing)
+[2019.12.15-21.11.07:726][177]Cmd: EDIT COPY
+[2019.12.15-21.11.08:155][228]Cmd: EDIT PASTE
+[2019.12.15-21.11.10:807][539]Cmd: EDIT PASTE
+[2019.12.15-21.11.14:397][962]Cmd: EDIT PASTE
+[2019.12.15-21.11.19:367][545]Cmd: EDIT PASTE
+[2019.12.15-21.11.25:117][221]Cmd: EDIT PASTE
+[2019.12.15-21.11.31:900][ 14]Cmd: EDIT PASTE
+[2019.12.15-21.11.39:033][852]Cmd: EDIT PASTE
+[2019.12.15-21.11.44:555][493]Cmd: EDIT PASTE
+[2019.12.15-21.11.51:529][311]Cmd: EDIT PASTE
+[2019.12.15-21.11.58:152][ 87]Cmd: EDIT COPY
+[2019.12.15-21.11.58:364][108]Cmd: EDIT PASTE
+[2019.12.15-21.12.00:315][334]Cmd: EDIT PASTE
+[2019.12.15-21.12.02:781][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.12.02:884][634]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.12.02:902][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.12.02:902][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.12.02:903][634]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:12:02)
+[2019.12.15-21.12.02:903][634]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.12.02:908][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005746s)
+[2019.12.15-21.12.02:909][634]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.12.02:909][634]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2019.12.15-21.12.02:909][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.006782s)
+[2019.12.15-21.12.02:961][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.15-21.12.02:976][634]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.12.02:994][634]LogInit: FAudioDevice initialized.
+[2019.12.15-21.12.03:003][634]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.12.03:013][634]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.12.03:014][634]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom4.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.12.03:014][634]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom5.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.12.03:014][634]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.12.03
+[2019.12.15-21.12.03:022][634]LogWorld: Bringing up level for play took: 0.017756
+[2019.12.15-21.12.03:022][634]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2019.12.15-21.12.03:026][634]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.329
+[2019.12.15-21.12.03:026][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.12.16:280][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.12.16:281][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.12.16:281][221]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.12.16:281][221]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.12.16:298][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.12.16:298][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.12.16:337][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.12.16:340][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.15-21.12.16:349][221]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.12.16:387][223]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2019.12.15-21.12.17:612][367]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.12.17:615][367]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.12.21:892][733]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Art/TileMaps/Level1.Level1
+[2019.12.15-21.12.54:004][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.01:565][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.03:672][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.06:555][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.08:404][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.10:953][514]Cmd: TRANSACTION UNDO
+[2019.12.15-21.13.10:953][514]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-21.13.11:307][537]Cmd: TRANSACTION UNDO
+[2019.12.15-21.13.11:308][537]LogEditorTransaction: Undo Tile Painting
+[2019.12.15-21.13.14:693][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.19:494][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.23:082][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.24:910][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.35:307][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.38:483][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.41:330][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.44:701][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.48:225][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.50:732][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.13.53:565][106]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.13.53:572][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TileMaps/Level1" FILE="../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Art/TileMaps/Level1.uasset" SILENT=true
+[2019.12.15-21.13.55:230][106]LogSavePackage: Moving '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Saved/Level11190FA964262096E13854DA56E592B37.tmp' to '../../../../../../Users/shane/Documents/Unreal Projects/FridayThirteen/Content/Art/TileMaps/Level1.uasset'
+[2019.12.15-21.13.55:705][132]LogSlate: Window 'Level1' being destroyed
+[2019.12.15-21.13.55:719][132]LogSlate: Window 'Level1' being destroyed
+[2019.12.15-21.13.55:737][132]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.13.56:928][269]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.13.56:944][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.13.56:944][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.13.56:944][269]PIE: New page: PIE session: LevelOne (15 Dec 2019 21:13:56)
+[2019.12.15-21.13.56:945][269]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.13.56:951][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006059s)
+[2019.12.15-21.13.56:951][269]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.15-21.13.56:952][269]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.12.15-21.13.56:952][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/LevelOne.LevelOne to /Game/Map/UEDPIE_0_LevelOne.LevelOne (0.007106s)
+[2019.12.15-21.13.56:988][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.15-21.13.57:004][269]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.13.57:020][269]LogInit: FAudioDevice initialized.
+[2019.12.15-21.13.57:026][269]LogLoad: Game class is 'GameControllerBP_C'
+[2019.12.15-21.13.57:035][269]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.13.57:035][269]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom4.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.13.57:035][269]PIE: Warning: Invalid Simulate Options: Body (bpPickUpMushrooom5.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2019.12.15-21.13.57:036][269]LogWorld: Bringing World /Game/Map/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.15-21.13.57
+[2019.12.15-21.13.57:044][269]LogWorld: Bringing up level for play took: 0.016896
+[2019.12.15-21.13.57:044][269]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2019.12.15-21.13.57:047][269]PIE: Play in editor start time for /Game/Map/UEDPIE_0_LevelOne 0.351
+[2019.12.15-21.13.57:048][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.14.19:198][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.14.19:198][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.14.19:198][921]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_LevelOne
+[2019.12.15-21.14.19:198][921]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.14.19:214][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.14.19:215][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Map/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Map/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.15-21.14.19:255][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.14.19:259][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.15-21.14.19:267][921]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.14.19:304][923]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2019.12.15-21.14.20:606][ 76]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.14.20:610][ 76]LogSlate: Window 'Message Log' being destroyed
+[2019.12.15-21.14.57:339][470]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1)
+[2019.12.15-21.14.58:018][543]LogEditorViewport: Clicking on Actor (LMB): PainCausingVolume (PainCausingVolume)
+[2019.12.15-21.15.02:590][ 86]Cmd: EDIT COPY
+[2019.12.15-21.15.02:939][126]Cmd: EDIT PASTE
+[2019.12.15-21.15.36:096][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.16.12:126][520]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Level1)
+[2019.12.15-21.16.12:207][520]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-21.16.18:257][222]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/PlayerBP.PlayerBP
+[2019.12.15-21.17.19:361][703]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprint/HUD.HUD
